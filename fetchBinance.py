@@ -1,0 +1,1 @@
+https://binance-docs.github.io/apidocs/spot/en/#order-book
